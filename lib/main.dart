@@ -51,18 +51,18 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
 
-            Image.asset('assets/_W3A1562.JPG'
+            Image.asset('assets/_123img.jpeg'
             ,width: 200,height: 200,),
 
             const
             Text(
-              'BOUBALA NDIAYE',
+              'EDZANG EDOU',
               textAlign: TextAlign.center,
               overflow: TextOverflow.ellipsis,
               style: const TextStyle(fontWeight: FontWeight.bold),
             ),
             Text(
-              'Karl Evans',
+              'Lixi',
               textAlign: TextAlign.center,
               overflow: TextOverflow.ellipsis,
                 style: TextStyle(color: Colors.black.withOpacity(0.6)),
